@@ -105,6 +105,11 @@ SIFRE = "uygulama_sifresi"
 ### 4. E-Posta Gönderimi ve Rapor
 ![Mail Ekranı](4.PNG)
 
+### 5. Otomasyon Paneli (.bat Dosyası)
+Aşağıdaki ekran görüntüsü, `.bat` dosyasının başarıyla çalıştırıldığını gösterir:
+
+![.bat Otomasyon Ekranı](5.PNG)
+
 ---
 
 ## 🧠 Geliştiren
