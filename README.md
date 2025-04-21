@@ -129,3 +129,4 @@ Veri bilimi, otomasyon ve web arayüzleri üzerine pratik amaçlı geliştirilmi
 
 📌 *Her satır veri, her tıklama grafik!*
 "# Python-Hava-Durumu-Veri-Bilimi" 
+"# Python-Hava-Durumu-Veri-Bilimi" 
