@@ -94,16 +94,16 @@ SIFRE = "uygulama_sifresi"
 ## 📸 Uygulama Ekran Görüntüleri
 
 ### 1. Panel Arayüzü ve Veri Tablosu
-![Panel Arayüzü](./1.PNG)
+![Panel Arayüzü](ekran-görüntüleri/1.PNG)
 
 ### 2. Sıcaklık Grafiği ve Tarih Seçimi
-![Sıcaklık Grafiği](./2.PNG)
+![Sıcaklık Grafiği](ekran-görüntüleri/2.PNG)
 
 ### 3. Nem ve Rüzgar Hızı Grafiği
-![Nem ve Rüzgar Grafiği](./3.PNG)
+![Nem ve Rüzgar Grafiği](ekran-görüntüleri/3.PNG)
 
 ### 4. E-Posta Gönderimi ve Rapor
-![Mail Ekranı](./4.PNG)
+![Mail Ekranı](ekran-görüntüleri/4.PNG)
 
 ---
 
@@ -118,7 +118,7 @@ Veri bilimi, otomasyon ve web arayüzleri üzerine pratik amaçlı geliştirilmi
 ### 5. Otomasyon Paneli (.bat Dosyası)
 Aşağıdaki ekran görüntüsü, `.bat` dosyasının başarıyla çalıştırıldığını gösterir:
 
-![.bat Otomasyon Ekranı](./5.PNG)
+![.bat Otomasyon Ekranı](ekran-görüntüleri/5.PNG)
 
 ---
 
