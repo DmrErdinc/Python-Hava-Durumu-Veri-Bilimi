@@ -112,20 +112,6 @@ Aşağıdaki ekran görüntüsü, `.bat` dosyasının başarıyla çalıştırı
 
 ---
 
-## 🧠 Geliştiren
-
-Bu proje [Erdinç](https://github.com/DmrErdinc) tarafından hazırlanmıştır.  
-Veri bilimi, otomasyon ve web arayüzleri üzerine pratik amaçlı geliştirilmiştir.
-
-📌 *Her satır veri, her tıklama grafik!*
-
-
-### 5. Otomasyon Paneli (.bat Dosyası)
-Aşağıdaki ekran görüntüsü, `.bat` dosyasının başarıyla çalıştırıldığını gösterir:
-
-![.bat Otomasyon Ekranı](5.PNG)
-
----
 
 ## 🧠 Geliştiren
 
@@ -134,5 +120,4 @@ Veri bilimi, otomasyon ve web arayüzleri üzerine pratik amaçlı geliştirilmi
 Detaylı Bilgi için:Eraydemir300@gmail.com üzerinden iletişime geçebilirsiniz.
 
 📌 *Her satır veri, her tıklama grafik!*
-"# Python-Hava-Durumu-Veri-Bilimi" 
-"# Python-Hava-Durumu-Veri-Bilimi" 
+
