@@ -94,7 +94,7 @@ SIFRE = "uygulama_sifresi"
 ## 📸 Uygulama Ekran Görüntüleri
 
 ### 1. Panel Arayüzü ve Veri Tablosu
-![Panel Arayüzü](ekran.görüntüleri/1.PNG)
+![Panel Arayüzü](1.PNG)
 
 ### 2. Sıcaklık Grafiği ve Tarih Seçimi
 ![Sıcaklık Grafiği](ekran_görüntüleri/2.PNG)
